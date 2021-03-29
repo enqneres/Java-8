@@ -1,4 +1,4 @@
-package br.esolutions.testegradle;
+package outros;
 
 public class Reducao {
     //Redução (conversão de tipo)

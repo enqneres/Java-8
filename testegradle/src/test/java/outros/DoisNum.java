@@ -1,4 +1,4 @@
-package br.esolutions.testegradle;
+package outros;
 
 public class DoisNum {
     public static void main(String[]args) {

@@ -1,4 +1,4 @@
-package br.esolutions.testegradle;
+package encapsulamento;
 
 public class InstanciaPessoa {
     public static void main (String[]args){
@@ -6,7 +6,7 @@ public class InstanciaPessoa {
 
         System.out.println(pessoa.getNome());
         System.out.println(pessoa.getDataNascimento());
-        System.out.println(pessoa.calculaIdade());
+        System.out.println(pessoa.calculaIdade() + " anos");
 
         pessoa.setNome("Enoque Neres");
 

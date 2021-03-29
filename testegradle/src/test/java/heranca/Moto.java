@@ -1,4 +1,4 @@
-package br.esolutions.testegradle;
+package heranca;
 
 public class Moto extends Veiculo {
     private String cilindradas;

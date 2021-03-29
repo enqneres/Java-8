@@ -1,5 +1,7 @@
 package br.esolutions.testegradle;
 
+import br.esolutions.testegradle.Carro3;
+
 import static java.lang.System.*;
 
 public class InstanciaCarro {

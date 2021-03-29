@@ -1,4 +1,4 @@
-package br.esolutions.testegradle;
+package outros;
 
 public class Extensao {
     public static void main(String[]args) {
