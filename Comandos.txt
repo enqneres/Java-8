@@ -1,0 +1,13 @@
+Usando o PowerShell do Windows 10
+
+- Java 8
+
+PS C:\Bootcamp Java> java -version
+java version "1.8.0_281"
+Java(TM) SE Runtime Environment (build 1.8.0_281-b09)
+Java HotSpot(TM) 64-Bit Server VM (build 25.281-b09, mixed mode)
+
+- Comandos rápidos IntelliJ
+
+> sout = System.out.println
+
