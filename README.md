@@ -1,8 +1,8 @@
 # Java-8
 
 - Características da linguagem
-Debug de código
-Orientação a Objeto com Java
+- Debug de código
+- Orientação a Objeto com Java
 S.O.L.I.D com Java
 Trabalhando com Datas
 Trabalhando com Calendar
