@@ -1,8 +1,7 @@
 package heranca;
 
 public class InstanciaCarroMoto {
-
-   public void main(String[] args){
+    public void main(String[]args){
        Carro carro = new Carro();
        carro.setMarca("Fiat");
        carro.setModelo("Argo");
