@@ -14,7 +14,9 @@ public class Exercicio {
         estudantes.add("Joao");
 
         //navegue pela lista e exiba os nomes..
-        System.out.println(estudantes);
+        for (String nomes: estudantes){
+            System.out.println(nomes);
+        }
 
         //substitua o Carlos pelo Roberto..
         estudantes.set(2, "Roberto");
