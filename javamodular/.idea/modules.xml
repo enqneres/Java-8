@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app.esolutions.core/app.esolutions.core.iml" filepath="$PROJECT_DIR$/app.esolutions.core/app.esolutions.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esolutions.util/esolutions.util.iml" filepath="$PROJECT_DIR$/esolutions.util/esolutions.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javamodular.iml" filepath="$PROJECT_DIR$/javamodular.iml" />
+    </modules>
+  </component>
+</project>
